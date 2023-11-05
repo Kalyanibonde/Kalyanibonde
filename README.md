@@ -1,5 +1,5 @@
-<html>
-    <h1 align="center">Hi 👋, I'm Kalyani Bonde</h1>
+ ![logo](https://github.com/Kalyanibonde/Kalyanibonde/blob/main/tech.gif)
+ <h1 align="center">Hi 👋, I'm Kalyani Bonde</h1>
 <h3 align="center">A passionate C++ and Full stack developer from India</h3><br><br>
 <img align="right" alt="coding" width="390" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif"/>
 
@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanibonde&show_icons=true&locale=en" alt="kalyanibonde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanibonde&" alt="kalyanibonde" /></p>
-</html>
+
